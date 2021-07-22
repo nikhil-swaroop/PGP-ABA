@@ -1,0 +1,24 @@
+Update all the tables in "Summary" sheet 
+by picking the respective values for each activity 
+from the sheets of completed weeks. 
+Erase all the cells of " Quantity planned for each week" 
+and "Root cause Type" in Look Ahead Table, 
+update the columns "Quantity completed upto Week-n" [E] 
+in Look ahead plan table, 
+"Cumulative completed upto Week-n+1 in Root cause table and the rows "WEEK  and 
+PPC table by using the below formula.
+
+After updating all the tables in the Summary sheet.
+Pick up the tables from the "Summary sheet"
+Erase all the cells of "Quantity planned for each week and minimize the differentiable for weeks.
+Keep all values irrespective of deviations. 
+Outlier values i.e. 2.5% of the maximum and minimum can be neglected.
+The median of the values can be calculated and can be used for design considerations.
+Consideration of "Quantity of the next week values."
+from all the completed weeks.
+Erasing all the values from each of the cells
+Keep the principle value of the Look Ahead tabular transactions in seperate silos.
+The Standard variation can be estimated and titular proper sheets.
+Look ahead table, probability distributions and Gaussian values.
+
+The collapse values are attributed to the 
